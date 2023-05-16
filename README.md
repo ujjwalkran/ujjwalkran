@@ -13,9 +13,9 @@
 
 
 ## 📊 GitHub Stats:
-![ujjwalkran's Stats](https://github-readme-stats.vercel.app/api?username=ujjwalkran&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![ujjwalkran's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ujjwalkran&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![ujjwalkran's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkran&theme=vue-dark&hide_border=true)<br/>
-![ujjwalkran's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkran&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ujjwalkran's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ujjwalkran&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ujjwalkran&icon=5&color=0)](https://visitcount.itsvg.in)
